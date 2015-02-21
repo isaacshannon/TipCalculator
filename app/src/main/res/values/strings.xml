@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TipCalculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tip">Tip: </string>
+    <string name="bill">Bill: </string>
+    <string name="home_title">Enter your Bill and Tip</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="add25">+25$</string>
+    <string name="sub25">-25$</string>
+    <string name="title_activity_split_tip">Split the Tip</string>
+    <string name="split_bill">Divide the bill?:</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="people">Divide how many times?:</string>
+    <string name="title_activity_display_result">Display Bill</string>
+    <string name="split_tip_res">Split Tip: </string>
+    <string name="split_bill_res">Split Bill: </string>
+    <string name="currency">currency</string>
+    <string name="tip_val">tip_val</string>
+    <string name="title_activity_select_preferences">Preferences</string>
+    <string name="dollar">$</string>
+    <string name="pound">£</string>
+    <string name="euro">€</string>
+    <string name="preference_file_key">com.tipCalculator.PREFERENCE_FILE_KEY</string>
+
+</resources>
